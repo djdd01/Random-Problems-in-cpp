@@ -1,2 +1,2 @@
 # Random-Problems-in-c-
-Random problems that i solved from codeforces/hackerrank/youtube idk.
+Random problems that i solved on codeforces/hackerrank/youtube.

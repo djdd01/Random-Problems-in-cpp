@@ -92,5 +92,6 @@ vector<int> bestSum(vector<int> &query, int target, map<int, vector<int>> &possi
     }
     if (possible[target].empty())
         possible[target] = {-1};
+    
     return possible[target];
 }

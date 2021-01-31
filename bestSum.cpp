@@ -20,7 +20,6 @@ using namespace std;
 
 #define ull unsigned long long
 #define ll long long
-#define rep(i, a, b) for (int i = a; i < b; i++)
 
 void solve();
 vector<int> bestSum(vector<int> &query, int target, map<int, vector<int>> &possible);

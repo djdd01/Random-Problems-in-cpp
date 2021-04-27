@@ -1,2 +1,2 @@
 # Random-Problems-in-c-
-Random problems that i solved
+Random problems that I solved
